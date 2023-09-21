@@ -33,7 +33,4 @@ notification.mp3
 /test/stdout.txt
 /test/stderr.txt
 /cache.json
-webui-user.bat
-distys-Stable-Diffusion-Pickle-Scanner-GUI.v0.1.6.exe
-distys-Stable-Diffusion-Pickle-Scanner-GUI.v0.1.6.exe
-webui-user.bat
+/distys-Stable-Diffusion-Pickle-Scanner-GUI.v0.1.6.exe
